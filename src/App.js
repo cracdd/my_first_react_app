@@ -5,13 +5,14 @@ function App() {
   return (
     
     <div>
-      Hello
+      Hello fisrt my react project!
      
       <Device mydevice="i love Apple"/>
       <Device mydevice="iPhone Xs"/>
       <Device mydevice="Apple Watch nononnon"/>
       <Device mydevice="Macbook Pro hohohooho"/>
       <Device mydevice="AirPods Pro"/>
+      
     </div>
   );
 }
