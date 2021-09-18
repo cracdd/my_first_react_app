@@ -6,6 +6,7 @@ function App() {
     
     <div>
       Hello fisrt my react project!
+      git change id checked...
      
       <Device mydevice="i love Apple"/>
       <Device mydevice="iPhone Xs"/>
